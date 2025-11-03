@@ -7,7 +7,7 @@ from datetime import datetime
 
 # ==== CONFIG ====
 SAMPLE_RATE = 44100
-CHUNK_DURATION = 0.01   # seconds (1 ms) -- set to what you actually want
+CHUNK_DURATION = 0.01   
 
 N_MELS = 64
 FMIN, FMAX = 500, 8000
